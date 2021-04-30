@@ -2,10 +2,10 @@
 My Projects Collection
 Find below the details of my projects
 
-Soowec.com.                                      
- PHP.          PYTHON
+Soowec.com                                   
+ PHP   
+ PYTHON
+JAVA                 
+JAVASRIPT        
+FRAMEWORKS
 
-JAVA                 JAVASRIPT.             
-
-
-Framèworks
