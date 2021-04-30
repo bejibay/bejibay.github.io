@@ -4,7 +4,7 @@ Find below the details of my projects
 
 Soowec.com                                   
  PHP   
- PYTHON
+PYTHON
 JAVA                 
 JAVASRIPT        
 FRAMEWORKS
