@@ -1,9 +1,9 @@
 # bejibay.github.io
-My Projects Collection
-Find below the details of my projects
-
+*My Projects Collection
+**Find below the details of my projects
+```
 Soowec.com                                   
- PHP   
+PHP   
 PYTHON
 JAVA                 
 JAVASRIPT        
