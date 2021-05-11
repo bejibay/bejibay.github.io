@@ -1,11 +1,10 @@
 # bejibay.github.io
-#### My Projects Collection
+## My Projects Collection
 Find below the details of my projects
 ```
-Soowec.com                                   
-PHP   
-PYTHON
-JAVA                 
-JAVASRIPT        
-FRAMEWORKS
+BlockChain                                  
+Product API  
+Landing Page
+Content Management System and Comment Box               
+       
 
