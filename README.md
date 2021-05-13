@@ -9,8 +9,8 @@ Digital Clock
 Content Management System and Comment Box 
 ```
 The repositories to the above projects are at 
-[https://github.com/bejibay] (https://github.com/bejibay)
+[https://github.com/bejibay](https://github.com/bejibay)
 
 
        
-[
+
