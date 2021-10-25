@@ -9,10 +9,28 @@ html{margin:0,font-family:aerial}
 .row::after{content:"",
 display:table,clear:both}
 h1,h2{text-align:center}
+#nav{background-color:blue, overflow:hidden
+}
+#nav a{display:none
+}
+#nav a .icon{display: block}
+[class*col-]{
+width:100%
+}
+@media screen and(min-width:576px){.col-12{
+width:100%
+},
+#nav a{float:none},
+a .icon{display:none}
+
+}
 </style>
 </head>
 <body>
-<div id="nav"></div>
+<div id="nav">
+<a href="/about">about</a><a href="/projects">Projects</a>
+<div><a href="JavaScript:void" class="icon"><i> class="fa fa-bars></a>
+</div>
 <div id="row">
 <h1>Profile</h1>
   <h2>I am a Full stack Developer</h2>
