@@ -6,6 +6,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title>My Profile</title>
 <style>
+.topnav{overflow:hidden;}
+.topnav a{padding:15px;}
+.topnav #topnav a{display:none;float;left;}
+.topnav a.icon{display:block; float:left;}
 .row::after{content:"";
 display:table;clear:both;}
 h1,h2{text-align:center;}
@@ -21,7 +25,9 @@ width:100%;
 </head>
 <body>
 <div class="topnav">
+<div id="topnav">
 <a href="/about">About</a> <a href="/projects">Projects</a>
+</div>
 <a href="Javascript:void(0);" class="icon"><i class="fa fa-bars"></i></a>
 </div>
 <div class="row">
