@@ -22,13 +22,19 @@ width:100%;
 
 }
 </style>
+<script>
+var x=document.getElementById('topnav');
+function displaylink(){
+if(x.a.style.display==none){x.a.style.display==block;}
+else{x.a.style.display==none}
+}</script>
 </head>
 <body>
 <div class="topnav">
 <div id="topnav">
 <a href="/about">About</a> <a href="/projects">Projects</a>
 </div>
-<a href="Javascript:void(0);" class="icon"><i class="fa fa-bars"></i></a>
+<a href="Javascript:void(0);" onclick="displayLink()" class="icon"><i class="fa fa-bars"></i></a>
 </div>
 <div class="row">
 <div class="col-12">
