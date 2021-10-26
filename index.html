@@ -6,9 +6,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title>My Profile</title>
 <style>
-.topnav{overflow:hidden;}
- .topnav #myLinks a{display:none;}
-.topnav a.icon{display:block;}
+.topnav{overflow:hidden;
+background-color:#333;
+position:relative;
+}
+ .topnav #myLinks{display:none;}
+ .topnav a {
+  float: left;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a.icon{display:block;float:right;}
 .row::after{content:"";
 display:table;clear:both;}
 h1,h2{text-align:center;}
