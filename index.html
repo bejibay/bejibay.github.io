@@ -8,7 +8,14 @@
 <style>
 .topnav{overflow:hidden;}
 .topnav a{padding:15px;}
- .topnav #topnav a{display:none;float;left;}
+ .topnav #mylinks a{display:none;float;left;}
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
  .topnav a.icon{display:block; float:right;}
 .row::after{content:"";
 display:table;clear:both;}
@@ -23,15 +30,16 @@ width:100%;
 }
 </style>
 <script>
-var x=document.getElementById('topnav');
+
 function displayLink(){
+var x=document.getElementById('mylinks');
 if(x.style.display==="none"){x.style.display==="block";}
 else{x.style.display==="none";}
 }</script>
 </head>
 <body>
 <div class="topnav">
-<div id="topnav">
+<div id="mylinks">
 <a href="/about">About</a> <a href="/projects">Projects</a>
 </div>
 <a href="Javascript:void(0);" onclick="displayLink()" class="icon"><i class="fa fa-bars"></i></a>
