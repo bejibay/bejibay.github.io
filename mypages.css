@@ -5,7 +5,7 @@ position:relative;}
 .topnav{overflow:hidden;
 background-color:#333;margin-top:0;
 }
- .topnav #myLinks{display:none}
+ .topnav #myLinks {display:none}
  .topnav a {
   display:block;
   color: white;
