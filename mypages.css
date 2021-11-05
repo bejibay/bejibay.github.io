@@ -12,10 +12,11 @@ background-color:#333;margin-top:0;
   text-decoration: none;
   font-size: 17px;
 }
-.topnav a.icon {
-  display:block;float:right;}
+.topnav a.icon {display:block;
+          position:absolute;
+          right:0;top:0;}
 
-.row::after{content:"";
+.row::after {content:"";
 clear:both;display:table;}
 h1,h2{text-align:center;}
 p,ul,ol,li{font-size:15px;}
