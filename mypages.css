@@ -19,8 +19,9 @@ overflow: hidden; background-color: #333; margin-top: 0;
   font-size: 17px;
 }
 .topnav a.icon {
-  display:block;
-  float:right;                  
+  position: absolute;
+  right: 0;
+  top: 0;                
 }
 
 .row::after {
