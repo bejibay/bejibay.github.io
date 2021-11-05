@@ -52,4 +52,11 @@ width: 100%;
 .col-12 {
 width: 100%;
 }
+.topnav a {
+           display: block;
+           float: left;
+}
+.topnav a.icon {
+               display: none;
+}
 }
