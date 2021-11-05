@@ -13,9 +13,7 @@ background-color:#333;margin-top:0;
   font-size: 17px;
 }
 .topnav a.icon {display:block;
-          position:absolute;
-          right:0;
-          top:0;
+  float:right;                  
 }
 
 .row::after {content:"";
