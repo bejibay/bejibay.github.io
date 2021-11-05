@@ -20,6 +20,7 @@ position: relative;
   font-size: 17px;
 }
 .topnav a.icon {
+  display: block;
   position: absolute;
   right: 0;
   top: 0;                
