@@ -44,7 +44,7 @@ font-size: 15px;
 }
 .section2,.section3,.section4{
 background-color: #FFFAF0;
-
+color: #000000;
 }
 .section4 a{
 border-radious: 10px;
@@ -58,13 +58,10 @@ border-radius: 15px;
 margin: 15px;
 padding: 15px;
 text-align: center;
-color: #ffffff;
-
 }
 #footer {
 background: #787878;
 padding: 15px 15px;
-color: white;
 }
 .col-12{ 
 width: 100%;
