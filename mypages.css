@@ -43,23 +43,22 @@ p,ul,ol,li {
 font-size: 15px;
 }
 .section2,.section3,.section4{
-background-color:#FFFAF0;
+background-color: #FFFAF0;
 
 }
 .section4 a{
-border-radious:10px;
-color:white;
+border-radious: 10px;
+color: white;
 }
 .section2 p{
-margin:10px;
+margin: 10px;
 }
 .section2 p span{
-border-radius:15px;
-margin:15px;
-padding:15px;
+border-radius: 15px;
+margin: 15px;
+padding: 15px;
 text-align: center;
-background:blue;
-color:#ffffff;
+color: #ffffff;
 
 }
 #footer {
