@@ -43,14 +43,13 @@ p,ul,ol,li {
 font-size: 15px;
 }
 .section1,.section3,.section4{
-background:#FFFAFO;
-text-align:center;
+
 }
 .section4 a{
 
 border-radious:10px;
 }
-span{
+.section2 span{
 border-radius:15px;
 margin:15px;
 padding:15px;
