@@ -5,8 +5,9 @@
 body {font-family: Arial,Helvetica,
 sans-serif;
 }
-#container {
+#container 
  margin: 0 auto;
+backgrounds-color:#fffaf0;
 }
 .topnav{ 
 overflow: hidden; background-color: black; 
@@ -36,11 +37,19 @@ position: relative;
    clear: both;
    display: table;
 }
-h1 {
+h1,h2,h3 {
 text-align: center;
 }
 p,ul,ol,li {
 font-size: 15px;
+}
+span{
+border-radius:15px;
+padding:15px;
+text-align: center;
+background-color:blue;
+color:#ffffff;
+
 }
 #footer {
 background-color: #787878;
