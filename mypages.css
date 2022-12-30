@@ -11,7 +11,6 @@ sans-serif;
 .topnav{ 
 overflow: hidden; 
 background-color: black; 
-color: white;
 position: relative;
 }
  .topnav #myLinks { 
@@ -19,13 +18,15 @@ position: relative;
 }
  .topnav a {
   display: block;
-  color:  white;
+  background-color: #000000;
+  color:  #FFFFFF;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
 .topnav a.icon {
-  color:white;
+  background-color: #000000;
+  color: #FFFFFF;
   display: block;
   position: absolute;
   right: 0;
@@ -45,12 +46,12 @@ p,ul,ol,li {
 font-size: 15px;
 }
 .section2,.section3,.section4{
-background-color: #FFFAF0;
+background-color: #F5F5DC;
 color: #000000;
 }
 .section4 a{
 border-radious: 10px;
-color: white;
+color: #000000;
 }
 .section2 p{
 margin: 10px;
@@ -62,7 +63,8 @@ padding: 15px;
 text-align: center;
 }
 #footer {
-background: #787878;
+background-color: #787878;
+color: #000000;
 padding: 15px 15px;
 }
 .col-12{ 
