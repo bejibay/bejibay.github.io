@@ -23,7 +23,7 @@ position: relative;
   font-size: 17px;
 }
 .topnav a.icon {
-  background: black;
+  color:white;
   display: block;
   position: absolute;
   right: 0;
@@ -42,14 +42,18 @@ text-align: center;
 p,ul,ol,li {
 font-size: 15px;
 }
-.section1,.section3,.section4{
+.section2,.section3,.section4{
+background-color:#FFFAF0;
 
 }
 .section4 a{
-
 border-radious:10px;
+color:white;
 }
-.section2 span{
+.section2 p{
+margin:10px;
+}
+.section2 p span{
 border-radius:15px;
 margin:15px;
 padding:15px;
@@ -59,7 +63,7 @@ color:#ffffff;
 
 }
 #footer {
-background-color: #787878;
+background: #787878;
 padding: 15px 15px;
 color: white;
 }
