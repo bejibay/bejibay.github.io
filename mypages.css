@@ -46,6 +46,10 @@ font-size: 15px;
 background:#FFFAFO;
 text-align:center;
 }
+.section4 a{
+
+border-radious:10px;
+}
 span{
 border-radius:15px;
 margin:15px;
