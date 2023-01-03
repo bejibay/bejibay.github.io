@@ -45,7 +45,7 @@ text-align: center;
 p,ul,ol,li {
 font-size: 15px;
 }
-ul{ 
+ul.none{ 
  list-style-type: none;
 }
 
