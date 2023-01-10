@@ -49,17 +49,12 @@ ul.none{
  list-style-type: none;
 }
 
-
-.section4 a{
-border:2px solid #000000;
-border-radious: 10px;
-color: #000000;
-width: 50%;
-}
-.section2 p{
+.section{
+background-color: #D3D3D3;
 margin: 20px;
 }
-.section2 p span{
+@
+p span{
 border: 2px solid #000000;
 border-radius: 15px;
 margin: 15px;
@@ -78,7 +73,7 @@ width: 100%;
 .topnav a {
  float: left;
 }
-.topnav a .icon {
+.topnav a.icon {
                display: none;
 }
 }
