@@ -78,14 +78,10 @@ padding: 15px 15px;
 width: 100%;
 }
 @media screen and(min-width:768px){
-.col-12 {
-width: 100%;
-}
 .topnav a {
-           display: block;
-           float: left;
+ float: left;
 }
-.topnav a.icon {
+.topnav a .icon {
                display: none;
 }
 }
