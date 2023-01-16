@@ -73,10 +73,12 @@ padding: 15px 15px;
 .col-12{ 
 width: 100%;
 }
-@media screen only and(min-width:768px){
+@media screen only and
+(min-width: 768px){
 .topnav a {
- display: block;
- float: left;
+float: left;
+display: block;
+ 
 }
 .topnav a.icon {
                display: none;
