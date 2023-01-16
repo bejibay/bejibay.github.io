@@ -76,11 +76,10 @@ width: 100%;
 @media screen only and
 (min-width: 768px){
 .topnav a {
-float: left;
-display: block;
+display: inline;
  
 }
 .topnav a.icon {
-               display: none;
+display: none;
 }
 }
