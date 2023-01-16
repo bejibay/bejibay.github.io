@@ -74,7 +74,7 @@ padding: 15px 15px;
 width: 100%;
 }
 @media screen only and
-(min-width: 768px){
+(min-width: 600px){
 .topnav a {
 display: inline;
  
