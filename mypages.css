@@ -59,8 +59,10 @@ background-color: #787878;
 color: #000000;
 padding: 15px 15px;
 overflow: hidden;
-position: relative;
-   }
+position: absolute;
+bottom: 0;
+right:0; 
+}
 
 .row::after {
 content: "";
